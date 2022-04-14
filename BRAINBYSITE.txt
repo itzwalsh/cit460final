@@ -1,25 +1,3 @@
-BRAINBYSITE.TXT
-Who has access
-
-System properties
-Type
-Text
-Size
-577 KB
-Storage used
-577 KB
-Location
-Colab Notebooks
-Owner
-Whisper
-Modified
-May 27, 2021 by Whisper
-Opened
-9:01 AM by me
-Created
-8:57 AM
-No description
-Viewers can download
 AGE|AGE_ADJUSTED_CI_LOWER|AGE_ADJUSTED_CI_UPPER|AGE_ADJUSTED_RATE|BEHAVIOR|COUNT|POPULATION|SEX|SITE|YEAR|CRUDE_CI_LOWER|CRUDE_CI_UPPER|CRUDE_RATE
 0-19|~|~|~|Benign/Borderline|~|39865121|Female|All other|2004|~|~|~
 0-19|~|~|~|Malignant|~|39865121|Female|All other|2004|~|~|~
